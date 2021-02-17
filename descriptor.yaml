@@ -1,0 +1,7 @@
+code: single-spa-react-widget-docker-bundle
+description: Single Spa React Widget Bundle Docker
+components:
+  plugins:
+    - plugins/test-fe-docker-plugin.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

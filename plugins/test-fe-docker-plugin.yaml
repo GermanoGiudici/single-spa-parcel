@@ -1,0 +1,6 @@
+#pre generated
+image: germanogiudici/test-fe-docker:0.0.1
+dbms: none
+healthCheckPath: "/management/health"
+roles:
+  - "test-fe-docker-admin"
